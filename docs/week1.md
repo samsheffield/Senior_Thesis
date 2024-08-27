@@ -20,7 +20,7 @@ Be prepared for 5-10 minutes (Please manage your time)You do not need to create 
 
 ## Next Week
 
-### Game Design Welcome Back! Get-Together (Next Wednesday, 09/04. 2:30-3:45)
+### Game Design Welcome Back! Meet-and-Greet!Eat-and-Eat! (Next Wednesday, 09/04. 2:30-3:45)
 If you are a GMD Major and Minor, please attend our welcome back meeting on Wednesday next week from 2:30-3:45. Mark your calendars!
 
 - Meet your lovely peers and faculty in the Game Design program! 
