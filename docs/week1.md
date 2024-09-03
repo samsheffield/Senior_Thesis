@@ -16,7 +16,7 @@ So excited to welcome you all back. Today, we'll meet as a group to...
 - Describe what you are currently considering for your Senior Thesis. This is not a proposal, so you don't need to have specific plans at this points.
 - Are you currently considering collaboration? What skills do you have and how might you like to collaborate?
 
-Be prepared for 5-10 minutes (Please manage your time)You do not need to create a formal slideshow presentation unless you find it useful for organizing your thoughts and managing your time.
+Be prepared for 5-10 minutes (Please manage your time). You do not need to create a formal slideshow presentation unless you find it useful for organizing your thoughts and managing your time.
 
 ## Next Week
 

@@ -15,3 +15,4 @@ This section of Senior Thesis is for students interested in developing a body of
 
 Week 1 (08/27):
   - [Welcome!](week1.md)
+  - [Self Introductions](week2.md)
