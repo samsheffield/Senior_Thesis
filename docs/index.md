@@ -13,9 +13,13 @@ This section of Senior Thesis is for students interested in developing a body of
 
 ## Weekly Class Notes
 
-Week 1 (08/27):
+Week 1
   - [Welcome!](week1.md)
+Week 2
   - [Self Introductions](week2.md)
+Week 4
   - [Progress Updates, 1-on-1 Meetings, Work Session](week4.md)
+Week 5
   - [Progress Updates, 1-on-1 Meetings, Work Session](week5.md)
+Week 6
   - [Progress Updates, 1-on-1 Meetings, Last Work Session before Milestone 1](week6.md)
