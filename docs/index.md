@@ -17,3 +17,5 @@ Week 1 (08/27):
   - [Welcome!](week1.md)
   - [Self Introductions](week2.md)
   - [Progress Updates, 1-on-1 Meetings, Work Session](week4.md)
+  - [Progress Updates, 1-on-1 Meetings, Work Session](week5.md)
+  - [Progress Updates, 1-on-1 Meetings, Last Work Session before Milestone 1](week6.md)
