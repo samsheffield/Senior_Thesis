@@ -7,7 +7,7 @@ We'll share out a summary of your work these past few weeks as a group. Please s
 
 - Who are you?
 - Give us an overview of the work that you've been doing so far. _Show us work samples, documentation, prototypes and tell us about the things you've been exploring._
-- Describe the direction you are currently considering for your Senior Thesis._Give us as much detail as possible._
+- Describe the direction you are currently considering for your Senior Thesis. _Give us as much detail as possible._
 - Are you currently planning to collaborate? Are you still looking for a collaborator? Are you open to collaborate if the opportunity presents itself?
 
 Be prepared for 10-15 minutes (including feedback and questions)
