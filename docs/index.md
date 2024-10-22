@@ -30,3 +30,9 @@ Week 6
 
 Week 7
   - [Milestone 1 Share-outs](week7.md)
+
+Week 8
+  - Fall Break
+
+Week 9
+  - [Work Session &  Looking Ahead](week9.md)
