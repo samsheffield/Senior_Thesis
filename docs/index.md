@@ -36,3 +36,6 @@ Week 8
 
 Week 9
   - [Work Session &  Looking Ahead](week9.md)
+
+Week 10
+  - [Work session & meetings](week10.md)
