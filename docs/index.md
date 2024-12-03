@@ -42,3 +42,12 @@ Week 10
 
 Week 11
   - [Progress Reviews (Group 1)](week11.md)
+
+Week 12
+  - [Work Session](week12.md)
+
+Week 13
+  - Final Work Session
+
+Week 14
+  - [Milestone 2 Reviews](week14.md)
