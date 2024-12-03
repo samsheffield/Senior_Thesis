@@ -13,7 +13,7 @@ __If you are working collaboratively, you are only required to create one presen
 
 
 ## Presentation Content
-The presentation will establish project goals for your Senior Project and provide some context to your work. This is a guideline for your presentation. You are welcome to expand on this as you feel appropriate but please do not omit any of the talking points below unless they have no direcet connection to the type of work you are making.
+The presentation will establish project goals for your Senior Project and provide some context to your work. This is a guideline for your presentation. You are welcome to expand on this as you feel appropriate but please do not omit any of the talking points below unless they have no direct connection to the type of work you are making.
 
 ### Project Title
 __Provide a title for the work you are developing in this class for Senior Thesis.__ You can always change this later if you are feeling indecisive. 
@@ -36,14 +36,14 @@ Consider...
 - Does it have a theme and setting?
 - What is your project's "hook"? (What's one novel, fun, or interesting thing about it?)
 - Are there particular novel technologies which you are using?
-- How would you describe the overall feeling of your project? (Remember that the words you choose convey different emotional meaning: “walk, stroll, skip, leap, glide, float”, "happy, ecstatic, overjoyed, pleased"). For games, these words chould be _verbs_.
+- How would you describe the overall feeling of your project? (Remember that the words you choose convey different emotional meaning: “walk, stroll, skip, leap, glide, float”, "happy, ecstatic, overjoyed, pleased"). For games, these words should be _verbs_.
 
 
 ### Precedents
 
 __Provide three significant precedents for your project and briefly describe a detail or two which is inspiring or informative for each.__
 
-What inspired your project? This can be anything which informed the design of your game in some meaningful way. These precedents should be examples which you consider successful at doing something of value relevant to your current project. 
+What inspired your project? This can be anything which informed the design of your project in some meaningful way. These precedents should be examples which you consider successful at doing something of value relevant to your current project. 
 
 
 ### Artistic and Design Goals
@@ -58,7 +58,7 @@ Examples of possible design goals include...
 - Professional development goals
 
 ### Experience Goals (For Games and Interactive Art)
-__List three specific experience goals for your players/paticipants/users.__ 
+__List three specific experience goals for your players/participants/users.__ 
 
 These are incredibly important. They’re what you’re designing your project around.  These should be succinct, connect to some emotional experience ([Plutchik’s Wheel of Emotions](https://www.6seconds.org/2022/03/13/plutchik-wheel-emotions/) might be of use), and not be about technical details at all. 
 
@@ -77,15 +77,15 @@ This as an opportunity to discuss how the prototype/milestone 2 progress serves 
 - What did you learn from the prototype? What do you still need to figure out?
 
 ### Project Scope & Scheduling
-__Give a brief overview of your game’s development next semester.__ This will be refined at the start of the Spring semester. Focus on the three areas below.
+__Give a brief overview of your projects development next semester.__ This will be refined at the start of the Spring semester. Focus on the three areas below.
 
 #### Scope
-__What do you estiamte is the right size for your project, relative to the time and energy available to produce it?__
+__What do you estimate is the right size for your project, relative to the time and energy available to produce it?__
 
-Is this a small complete project or a vertical slice of somethign larger? Describe the smallest viable form that you can imagine which still excites you.
+Is this a small complete project or a vertical slice of something larger? Describe the smallest viable form that you can imagine which still excites you.
 
-#### Skillset and team composition 
-__Describe your skills and decisions behind working together/alone on the game.__ 
+#### Skill Set and Team Composition 
+__Describe your skills and decisions behind working together/alone on the project.__ 
 
 - Are you working alone? On a team? Why? 
 - What skills do you have that will benefit you in making this project? 
@@ -93,7 +93,7 @@ __Describe your skills and decisions behind working together/alone on the game._
 
 
 #### Schedule
-__Provide a very broad overview of the schedule for your game’s development next semester.__ Break it down by critical milestones you need to achieve at a week-to-week resolution. This will change, but you need to determine if you are already thinking at a manageable scale.
+__Provide a very broad overview of the schedule for your project's development next semester.__ Break it down by critical milestones you need to achieve at a week-to-week resolution. This will change, but you need to determine if you are already thinking at a manageable scale.
 
 There are 14 weeks of development slated for this project. 2 of these will be shared with other planning, scoping, and other pre-production work. 
 
