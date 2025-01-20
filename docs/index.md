@@ -1,17 +1,53 @@
-## Senior Thesis 12: Visual Development/Games (GMD/IL/AN 498.01)
+## Senior Thesis 1: Visual Development/Games (GMD/IL/AN 400.01)
 
 ### About
-This is the class site for Senior Thesis 2, taught at the Maryland Institute College of Art in Spring 2025.
+This is the class site for Senior Thesis 1: Visual Development/Games, taught at the Maryland Institute College of Art in Fall 2024 & Spring 2025.
 
 ### Course Description
-This Senior Thesis course allows students to continue the development of a significant, personally and professionally rewarding body of work aligned with their creative discipline. This work builds upon the foundation laid in the Fall '24 semester and focuses on advancing students' capabilities in game design, visual development, or related fields.
+This section of Senior Thesis is for students interested in developing a body of work related to games and/or visual development. Students will begin research and development of a Senior project, either individually or collaboratively (depending on discipline), that will be reviewed and critiqued throughout the semester and completed over the Spring semester. Class deliverables will be based on each student’s creative discipline, such as the production of a personally rewarding & commercially viable group of images, animated assets, or tested and playable game prototypes.
 
 
 ## Syllabus
-- Spring '25 syllabus is available [here]()
-
+- Fall '24 syllabus is available [here](https://docs.google.com/document/d/16W6De5KQp_HOw-aP-SVnLkmdd4GS5vkuYIIp-UTJETg/edit?usp=sharing)
+- Fall '24 Independent Study syllabus is [here](https://docs.google.com/document/d/1kI-Mj1rvYx5HO6ll3Rjcx82s_6GXEZ5sMKQFzxO35Xs/edit?usp=sharing)
 
 ## Weekly Class Notes
 
 Week 1
-  - [Welcome back!](week1.md)
+  - [Welcome!](week1.md)
+
+Week 2
+  - [Self Introductions](week2.md)
+
+Week 4
+  - [Progress Updates, 1-on-1 Meetings, Work Session](week4.md)
+
+Week 5
+  - [Progress Updates, 1-on-1 Meetings, Work Session](week5.md)
+
+Week 6
+  - [Progress Updates, 1-on-1 Meetings, Last Work Session before Milestone 1](week6.md)
+
+Week 7
+  - [Milestone 1 Share-outs](week7.md)
+
+Week 8
+  - Fall Break
+
+Week 9
+  - [Work Session &  Looking Ahead](week9.md)
+
+Week 10
+  - [Work session & meetings](week10.md)
+
+Week 11
+  - [Progress Reviews (Group 1)](week11.md)
+
+Week 12
+  - [Work Session](week12.md)
+
+Week 13
+  - Final Work Session
+
+Week 14
+  - [Milestone 2 Reviews](week14.md)
