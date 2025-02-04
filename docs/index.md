@@ -30,3 +30,9 @@ This Senior Thesis course allows students to continue the development of a signi
 
 Week 1
   - [Welcome!](week1.md)
+
+Week 2
+  - Class cancelled due to illness
+
+Week 3
+  - [Scheduling & Check-ins](week3.md)
