@@ -68,6 +68,7 @@ _Finding it difficult to know what you need to do?_ You may find it beneficial t
 ## Guiding development with a design macro
 A design macro represents an overview of your project's design, listing all important aspects in a compact way. It typically consists of two parts- a design overview and a design macro chart. We'll focus on the latter this week.
 
+### For example...
 In commercial game development settings, this approach has replaced the once common monolithic game design document as key to game design planning. Macros are developed at the end of the pre-production phase of a game's development, and once completed, macros are typically _set in stone_ with very little deviation during the game's development.
 
 ### Macro not Micro
