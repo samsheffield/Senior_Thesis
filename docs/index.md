@@ -36,3 +36,6 @@ Week 2
 
 Week 3
   - [Scheduling & Check-ins](week3.md)
+
+Week 4
+  - [Scheduling & Check-ins](week4.md)
