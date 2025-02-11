@@ -66,7 +66,7 @@ This week I will continue checking in with everyone. Please have your task list 
 ## Design Macro (Draft) for GMD/IA related projects
 Continue developing a design macro for your project. You will ba asked to complete this in class next week. For non-game or interactive projects, you are welcome to also create a macro for your work! It's a beneficial tool for tracking your work. 
 
-You don't need to turn the macro in this week, but be prepared to discuss in our 1-on-1/team meetings next week. 
+__Email me a link to the design macro by the start of class next week (GMD/IA related projects).__
 
 ## Continue Research and Development
 Be prepared to demonstrate (not just talk about) progress next week in our breakout meetings.
