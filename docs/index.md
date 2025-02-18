@@ -39,3 +39,6 @@ Week 3
 
 Week 4
   - [Scheduling & Check-ins](week4.md)
+
+Week 5
+  - [Work session & Check-ins](week5.md)
