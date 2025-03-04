@@ -42,3 +42,9 @@ Week 4
 
 Week 5
   - [Work session & Check-ins](week5.md)
+
+Week 6
+  - Work session & Check-ins
+
+Week 7
+  - [Work session & Check-ins](week7.md)
