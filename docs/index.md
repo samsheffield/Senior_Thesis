@@ -48,3 +48,9 @@ Week 6
 
 Week 7
   - [Work session & Check-ins](week7.md)
+
+Week 8-12
+  - No link
+  
+Week 13
+  - [Final in-class reviews](week13.md)
