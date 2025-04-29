@@ -54,3 +54,6 @@ Week 8-12
   
 Week 13
   - [Final in-class reviews](week13.md)
+
+Week 14
+  - [Work session & Presentation Info](week14.md)
