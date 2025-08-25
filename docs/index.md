@@ -31,13 +31,14 @@ In addition to finding support from like-minded peers, collaboration is the exci
 
 ## Weekly Class Notes
 
-Week 1 (08/26)
+[Week 1 (08/26)](week1.md)
   - Welcome and introductions
+  - 1-on-1 meetings
   - Collaboration breakout session
 
 Week 2 (09/02)
-  - 1-on-1 meetings
-  - Small group check-ins
+  - Self introduction presentations
+  - 1-on-1 meetings continued
   - Collaboration breakout session
 
 Week 3 (09/09)
