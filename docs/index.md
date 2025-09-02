@@ -33,32 +33,31 @@ In addition to finding support from like-minded peers, collaboration is the exci
 
 [Week 1 (08/26)](week1.md)
   - Welcome and introductions
-  - 1-on-1 meetings
-  - Collaboration breakout session
+  - Collaboration breakout session (_just chatting_)
 
-Week 2 (09/02)
+[Week 2 (09/02)](week2.md)
   - Self introduction presentations
-  - 1-on-1 meetings continued
+  - 1-on-1 meetings (possibly)
   - Collaboration breakout session
 
 Week 3 (09/09)
+  - 1-on-1 meetings
   - Small group check-ins
-  - Class share-out (Group A)
 
 Week 4 (09/16)
   - Small group check-ins
-  - Class share-out (Group B)
+  - Class share-out (Group A)
 
 Week 5 (09/23)
   - Small group check-ins
-  - Class share-out (Group A)
+  - Class share-out (Group B)
 
 Week 6 (09/30)
   - Small group check-ins
-  - Class share out (Group B)
+  - Class share out (Group A)
 
 Week 7 (10/07)
-  - 1-on-1 meetings
+  - Class share-out (Group B)
   - Submit progress for midterm grading
   - Work session
 
