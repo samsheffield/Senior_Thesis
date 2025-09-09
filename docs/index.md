@@ -40,9 +40,10 @@ In addition to finding support from like-minded peers, collaboration is the exci
   - 1-on-1 meetings (possibly)
   - Collaboration breakout session
 
-Week 3 (09/09)
+[Week 3 (09/09)](week3.md)
   - 1-on-1 meetings
   - Small group check-ins
+  - Collaboration breakout session (_for real this time!_)
 
 Week 4 (09/16)
   - Small group check-ins
