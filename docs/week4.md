@@ -21,6 +21,9 @@ __This is an A week.__
 
 __Each person will have up to 10 minutes.__ You do not need to create a presentation for these share-outs but please direct us in giving you meaningful feedback relevant to where you are in the development of your work.
 
+### 1-on-1 Meetings Continue
+I will continue meeting with people 1-on-1 (or in small teams) with any remaining time we have.
+
 
 ### Collaboration still an option!
 
