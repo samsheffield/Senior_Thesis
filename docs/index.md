@@ -45,7 +45,7 @@ In addition to finding support from like-minded peers, collaboration is the exci
   - Small group check-ins
   - Collaboration breakout session (_for real this time!_)
 
-Week 4 (09/16)
+[Week 4 (09/16)](week4.md)
   - Small group check-ins
   - Class share-out (Group A)
 

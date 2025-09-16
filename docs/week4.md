@@ -3,8 +3,10 @@
 ## T O D A Y
 
 
-### Small Group Check-ins 
+### Small Group Check-ins (45 minutes)
 The groups will vary from week to week and not be organized by discipline. It is your responsibility to manage your time and present meaningful progress from week-to-week. Failure to do so will have a negative impact on your final grade in the class.
+
+__Please choose different people from last week.__
 
 Break into small groups and present your progress. Each person:
 - Who are you?
@@ -12,17 +14,23 @@ Break into small groups and present your progress. Each person:
 - What you were/are trying to accomplish (ideas, goals, questions)
 - What are your next steps?
 
+### Class Share-outs
+This week we will start reviewing progress together as a class, alternating between two groupings. 
 
-### Interested in collaborating/experimenting with others?
-**Today you should start forming groups today.**
+__This is an A week.__
 
-- Use the work we did last week as a starting point. 
-- _Interested in what you came up with last week together?_ Chat with people and see if there's still shared interest.
-- You don't need to form big groups. You can pair up and get started there.
-- If you are interested in collaborating, you will need to assert yourself a little, which can be _uncomfortable_. Don't be afraid to share you ideas. Do your best!
-- Be welcoming. Sharing the work is a good idea.
+__Each person will have up to 10 minutes.__ You do not need to create a presentation for these share-outs but please direct us in giving you meaningful feedback relevant to where you are in the development of your work.
 
-__We will do another brainstorming session in the afternoon for people who are not yet committed to an idea or team.__
+
+### Collaboration still an option!
+
+__No idea pitching until mid-term in this class.__ If you want to work with others, please have conversations. __If you are developing a game for thesis, working with others is highly, highly recommended.__ 
+
+#### This might be of interest to you as well
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lFFwKouwLsc?si=DAZ_80PSnfv6X01p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 
 
 # Homework
@@ -42,8 +50,7 @@ Use this time to continue working on something connected to what you might want 
 You’ll be sharing your progress in a small groups again next week, so just make sure you have something to talk about or show.
 
 
-### Class Share-outs
-Next week we will start reviewing progress together as a class, alternating between two groupings. These groupings will be assigned this week. You do not need to create a presentation for these share-outs but please direct us in giving you meaningful feedback relevant to where you are in the development of your work.
+
 
 
 Week 1 (08/26)
