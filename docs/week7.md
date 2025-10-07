@@ -3,7 +3,7 @@
 ### Class Share-outs
 This week we will start reviewing progress together as a class, alternating between two groupings. 
 
-__This is an B week.__
+__This is a B week.__
 
 __Each person will have up to 10 minutes.__ You do not need to create a presentation for these share-outs but please direct us in giving you meaningful feedback relevant to where you are in the development of your work.
 
