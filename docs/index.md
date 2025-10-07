@@ -57,7 +57,7 @@ Week 6 (09/30)
   - Small group check-ins
   - Class share out (Group A)
 
-Week 7 (10/07)
+[Week 7 (10/07)](week7.md)
   - Class share-out (Group B)
   - Submit progress for midterm grading
   - Work session
@@ -73,8 +73,8 @@ Week 10 (10/28)
   - Class share out (Group A)
 
 Week 11 (11/04)
-  - Small group check-ins
   - Class share out (Group B)
+  - Firaxis Field Trip
 
 Week 12 (11/11)
   - Small group check-ins
