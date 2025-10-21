@@ -65,19 +65,16 @@ Week 6 (09/30)
 Week 8 (10/14)
   - Fall Break
   
-Week 9 (10/21)
+[Week 9 (10/21)](week9.md)
   - Project pitch presentations
 
 Week 10 (10/28)
   - Small group check-ins
-  - Class share out (Group A)
 
 Week 11 (11/04)
-  - Class share out (Group B)
   - Firaxis Field Trip
 
 Week 12 (11/11)
-  - Small group check-ins
   - Class share out (Group A)
 
 Week 13 (11/18)
