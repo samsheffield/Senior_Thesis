@@ -68,11 +68,15 @@ Week 8 (10/14)
 [Week 9 (10/21)](week9.md)
   - Project pitch presentations
 
-Week 10 (10/28)
+[Week 10 (10/28)](week10.md)
+  - 
   - Small group check-ins
+  - 1-on-1 meetings
+  - Work session
 
 Week 11 (11/04)
-  - Firaxis Field Trip
+  - No morning class
+  - Firaxis Field Trip (Meet at Cohen Plaza by 12:15)
 
 Week 12 (11/11)
   - Class share out (Group A)
