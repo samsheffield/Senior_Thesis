@@ -78,7 +78,8 @@ Week 11 (11/04)
   - No morning class
   - Firaxis Field Trip (Meet at Cohen Plaza by 12:15)
 
-Week 12 (11/11)
+[Week 12 (11/11)](week12.md)
+  - Small group check-ins
   - Class share out (Group A)
 
 Week 13 (11/18)
@@ -86,10 +87,11 @@ Week 13 (11/18)
   - Class share out (Group B)
 
 Week 14 (11/25)
-  - Final class share out (Group A)
+  - Small group check-ins
+  - Work Session
 
 Week 15 (12/02)
-  - Final class share out (Group B)
+  - Final class share out (Groups A & B)
 
 Week 16 (12/09)
   - Semester progress reviews (1-on-1)
