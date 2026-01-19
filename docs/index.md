@@ -1,98 +1,74 @@
-## Senior Studio 1 (GMD 400.01) Fall  2025
-## Senior Illustration 1 (GMD 400.02), Senior Thesis: Visual Development (AN 400.01)
+## Senior Studio 2 (GMD 499.01) Spring 2026
+## Senior Illustration 2 (IL 401.02), Senior Thesis: Visual Development (AN 400.01)
 
 
 ### About
-This is the class site for Senior Thesis 1: Visual Development/Games, taught at the Maryland Institute College of Art in Fall 2025.
+This is the class site for Senior Thesis 2: Visual Development/Games, taught at the Maryland Institute College of Art in Spring 2026.
 
-## Course Description
-This section of Senior Thesis is for students interested in developing a body of work related to games and/or visual development. Students will begin research and development of a Senior Thesis project, either individually or collaboratively (depending on Major), that will be reviewed and critiqued throughout the Fall ‘25 semester and then completed in Spring ‘26. Class deliverables will be based on each student’s own creative discipline, such as the production of a personally rewarding  commercially viable group of images, animated assets, or tested and playable game prototypes. 
+### Course Description
+This Senior Thesis course allows students to continue the development of a significant, personally and professionally rewarding body of work aligned with their creative discipline. This work builds upon the foundation laid in the Fall '24 semester and focuses on advancing students' capabilities in Game Design, visual development, or related fields.
 
-## Course Goals
-- Encourage collaboration across creative disciplines related to game development and visual development.
-- Promote professional development relative to each student’s creative practice.
-- Create space for students to critically communicate and present ideas from concept to finished form.
+### Course Goals
+- Complete development of your Senior Project game
+- Learn to research, design, and build refined games and other playful projects.
+- Gain experience conducting research, developing project plans, and managing game development projects.
+- Refine vocabulary to discuss game development, from concept to finished form.
+- Identify and communicate your strengths as a game designer and map them to potential career paths post-graduation.
 
-## Student Learning Outcomes
-- Students will demonstrate the growth, consistency, and relevant skills necessary to transition to their intended professional field.
-- Students will demonstrate the analytical and organizational skills required to maintain a project schedule, attend individual and group meetings, and manage their resources in a professional manner.
-- Students will demonstrate the ability to work independently and collaboratively in small groups.
-- Students will demonstrate the ability to receive and give feedback and critique with professionalism and confidence.
-- Students will demonstrate the oral and written skills necessary to make professional-quality presentations and creative rationales.
-- Students will develop an in-depth understanding of their individual stylistic voice and how it fits into the current marketplace in their intended professional practice.
-
-## Collaboration
-In addition to finding support from like-minded peers, collaboration is the exciting opportunity we’re hoping to foster by bringing together your particular cohort of students. This class will not only provide you with time to continue developing your individual practice, but also create a valuable professional opportunity to work on a team, gaining experience applying your skills and artistic vision toward a shared goal defined in cooperation with your peers. 
+### Student Learning Outcomes
+- Students will demonstrate an understanding of how to build, test, and evaluate games using player-centric, iterative design methodologies.
+- Students will gain experience completing, testing, and publishing a multi-month game development project.
+- Students will be able to highlight their strengths as artists and designers through their work.
+- Students will gain experience developing professional materials.
 
 
 ## Syllabus
-- Fall '25 syllabus is available [here](https://docs.google.com/document/d/1lfSpcO97amCrO1_bfAnNAfQaYRMUH_fLzEaXDLIiPj0/edit?usp=sharing)
+- Spring '26 syllabus is available [here](https://docs.google.com/document/d/1gecOKducSIxZ2q4AwohtdRKm7TE4BkKz3DvACQldos4/edit?usp=sharing)
 
 
 ## Weekly Class Notes
 
-[Week 1 (08/26)](week1.md)
-  - Welcome and introductions
-  - Collaboration breakout session (_just chatting_)
+Week 1
+  - Welcome!
 
-[Week 2 (09/02)](week2.md)
-  - Self introduction presentations
-  - 1-on-1 meetings (possibly)
-  - Collaboration breakout session
+Week 2
+  - Group check-ins (non-games). Games: Proof-of-Concept prototypes due for in-class playtesting. 
 
-[Week 3 (09/09)](week3.md)
-  - 1-on-1 meetings
-  - Small group check-ins
-  - Collaboration breakout session (_for real this time!_)
+Week 3
+  - Work session & 1-on-1 check-ins. Scoping work due.
 
-[Week 4 (09/16)](week4.md)
-  - Small group check-ins
-  - Class share-out (Group A)
+Week 4
+  - Group A progress reviews. Work session.
 
-Week 5 (09/23)
-  - Small group check-ins
-  - Class share-out (Group B)
+Week 5
+  - Group B progress reviews. Work session.
 
-Week 6 (09/30)
-  - Small group check-ins
-  - Class share out (Group A)
+Week 6
+  - Group check-ins (non-games). Games: In-class playtesting. 
 
-[Week 7 (10/07)](week7.md)
-  - Class share-out (Group B)
-  - Submit progress for midterm grading
-  - Work session
+Week 7
+  - Work session & 1-on-1 check-ins.
 
-Week 8 (10/14)
-  - Fall Break
+Week 8
+  - Group check-ins (non-games). Games: In-class playtesting. 
+
+Week 9
+  - Spring Break
+
+Week 10
+  - Work session & 1-on-1 check-ins.
+
+Week 11
+  - Group A progress reviews. Work session.
+
+Week 12
+  - Group B progress reviews. Work session.
   
-[Week 9 (10/21)](week9.md)
-  - Project pitch presentations
+Week 13
+  - Group check-ins (non-games). Games: In-class playtesting. 
 
-[Week 10 (10/28)](week10.md)
-  - 
-  - Small group check-ins
-  - 1-on-1 meetings
-  - Work session
+Week 14
+  - Presentation and Project Review (Group 1)
 
-Week 11 (11/04)
-  - No morning class
-  - Firaxis Field Trip (Meet at Cohen Plaza by 12:15)
-
-[Week 12 (11/11)](week12.md)
-  - Small group check-ins
-  - Class share out (Group A)
-
-Week 13 (11/18)
-  - Small group check-ins
-  - Class share out (Group B)
-
-Week 14 (11/25)
-  - Small group check-ins
-  - Work Session
-
-Week 15 (12/02)
-  - Final class share out (Groups A & B)
-
-Week 16 (12/09)
-  - Semester progress reviews (1-on-1)
-  - Submit progress for final grading
+Week 15
+  - Presentation and Project Review (Group 2). Games: Trailer, documentation, and itch.ioLinks to an external site. page due.
