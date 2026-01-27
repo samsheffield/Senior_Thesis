@@ -32,13 +32,13 @@ Week 1
   - Welcome!
 
 Week 2
-  - Group check-ins (non-games). Games: Proof-of-Concept prototypes due for in-class playtesting. 
+  - Work session & 1-on-1 check-ins. 
 
 Week 3
-  - Work session & 1-on-1 check-ins. Scoping work due.
+  - .Group check-ins (non-games). Games: Proof-of-Concept prototypes due for in-class playtesting. 
 
 Week 4
-  - Group A progress reviews. Work session.
+  - Group A progress reviews. Work session. Scoping work due.
 
 Week 5
   - Group B progress reviews. Work session.
