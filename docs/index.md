@@ -38,10 +38,10 @@ Week 3
   - .Group check-ins (non-games). Games: Proof-of-Concept prototypes due for in-class playtesting. 
 
 Week 4
-  - Group A progress reviews. Work session. Scoping work due.
+  - Work session. Scoping exercise.
 
 Week 5
-  - Group B progress reviews. Work session.
+  - Group A progress reviews (morning), Group B progress reviews (afternoon).
 
 Week 6
   - Group check-ins (non-games). Games: In-class playtesting. 
@@ -71,4 +71,4 @@ Week 14
   - Presentation and Project Review (Group 1)
 
 Week 15
-  - Presentation and Project Review (Group 2). Games: Trailer, documentation, and itch.ioLinks to an external site. page due.
+  - Presentation and Project Review (Group 2). Games: Trailer, documentation, and itch.io page due.
